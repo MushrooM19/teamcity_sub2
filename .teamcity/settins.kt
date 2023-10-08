@@ -1,3 +1,5 @@
+package sub2
+
 object sub2 : Project({
     name = "sub2"
     defaultTemplate = RelativeId("Echo5")
